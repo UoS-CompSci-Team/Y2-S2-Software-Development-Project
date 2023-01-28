@@ -1246,3 +1246,148 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.28-17.12.42:245][192]LogAutomationController: Ignoring very large delta of 74.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.01.28-17.12.55:572][334]Cmd: git pull
 [2023.01.28-17.13.01:702][954]Cmd: git push
+[2023.01.28-17.15.47:006][723]LogViewport: Scene viewport resized to 1552x483, mode Windowed.
+[2023.01.28-17.15.47:038][724]LogViewport: Scene viewport resized to 1552x492, mode Windowed.
+[2023.01.28-17.15.47:097][725]LogViewport: Scene viewport resized to 1552x514, mode Windowed.
+[2023.01.28-17.15.47:148][727]LogViewport: Scene viewport resized to 1552x534, mode Windowed.
+[2023.01.28-17.15.47:196][729]LogViewport: Scene viewport resized to 1552x561, mode Windowed.
+[2023.01.28-17.15.47:239][731]LogViewport: Scene viewport resized to 1552x591, mode Windowed.
+[2023.01.28-17.15.47:274][732]LogViewport: Scene viewport resized to 1552x608, mode Windowed.
+[2023.01.28-17.15.47:320][733]LogViewport: Scene viewport resized to 1552x628, mode Windowed.
+[2023.01.28-17.15.47:371][735]LogViewport: Scene viewport resized to 1552x643, mode Windowed.
+[2023.01.28-17.15.47:413][737]LogViewport: Scene viewport resized to 1552x652, mode Windowed.
+[2023.01.28-17.15.47:459][739]LogViewport: Scene viewport resized to 1552x660, mode Windowed.
+[2023.01.28-17.15.47:492][740]LogViewport: Scene viewport resized to 1552x661, mode Windowed.
+[2023.01.28-17.47.23:324][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_road.BP_road
+[2023.01.28-17.47.23:324][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.28-17.47.24:623][316]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.28-17.47.25:440][381]LogViewport: Scene viewport resized to 1172x723, mode Windowed.
+[2023.01.28-17.47.30:463][702]LogViewport: Scene viewport resized to 1170x742, mode Windowed.
+[2023.01.28-17.47.30:545][704]LogViewport: Scene viewport resized to 480x236, mode Windowed.
+[2023.01.28-17.47.30:915][741]LogViewport: Scene viewport resized to 1172x723, mode Windowed.
+[2023.01.28-17.47.31:132][763]LogSlate: Window 'BP_road' being destroyed
+[2023.01.28-17.48.57:088][347]Cmd: TRANSACTION UNDO
+[2023.01.28-17.48.57:088][347]LogEditorTransaction: Undo Clicking on Elements
+[2023.01.28-17.48.57:902][380]Cmd: TRANSACTION UNDO
+[2023.01.28-17.48.57:902][380]LogEditorTransaction: Undo Clicking on Elements
+[2023.01.28-17.48.58:838][460]Cmd: TRANSACTION UNDO
+[2023.01.28-17.48.58:838][460]LogEditorTransaction: Undo Move Elements
+[2023.01.28-17.51.52:385][982]Cmd: DELETE
+[2023.01.28-17.51.52:385][982]Cmd: ACTOR DELETE
+[2023.01.28-17.51.52:398][982]LogEditorActor: Deleted Actor: BP_road_C
+[2023.01.28-17.51.52:457][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.28-17.51.52:459][982]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2023.01.28-17.55.38:226][180]Cmd: DELETE
+[2023.01.28-17.55.38:226][180]Cmd: ACTOR DELETE
+[2023.01.28-17.55.38:234][180]LogEditorActor: Deleted Actor: BP_road_C
+[2023.01.28-17.55.38:281][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.01.28-17.55.38:283][180]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2023.01.28-17.56.01:295][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.28-17.56.01:501][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SettlersMap" FILE="../../../../../BlueBard/Game Projects/Catan/Settlers/Content/Map/SettlersMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.28-17.56.01:529][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.28-17.56.01:633][122]LogSavePackage: Moving output files for package: /Game/Map/SettlersMap
+[2023.01.28-17.56.01:633][122]LogSavePackage: Moving '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/SettlersMap278567444AC14E3A29E2DFBB3C16C7F2.tmp' to '../../../../../BlueBard/Game Projects/Catan/Settlers/Content/Map/SettlersMap.umap'
+[2023.01.28-17.56.01:648][122]LogFileHelpers: No new changes to save!
+[2023.01.28-17.56.01:648][122]LogFileHelpers: Saving map 'SettlersMap' took 0.147
+[2023.01.28-17.56.01:666][122]AssetCheck: New page: Asset Save: SettlersMap
+[2023.01.28-17.56.01:666][122]LogContentValidation: Display: Validating World /Game/Map/SettlersMap.SettlersMap
+[2023.01.28-17.56.11:528][950]LogViewport: Scene viewport resized to 1552x659, mode Windowed.
+[2023.01.28-17.56.11:579][952]LogViewport: Scene viewport resized to 1552x650, mode Windowed.
+[2023.01.28-17.56.11:625][954]LogViewport: Scene viewport resized to 1552x641, mode Windowed.
+[2023.01.28-17.56.11:661][955]LogViewport: Scene viewport resized to 1552x633, mode Windowed.
+[2023.01.28-17.56.11:703][956]LogViewport: Scene viewport resized to 1552x628, mode Windowed.
+[2023.01.28-17.56.11:746][957]LogViewport: Scene viewport resized to 1552x624, mode Windowed.
+[2023.01.28-17.56.11:786][958]LogViewport: Scene viewport resized to 1552x621, mode Windowed.
+[2023.01.28-17.57.05:533][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_dock.BP_dock
+[2023.01.28-17.57.05:534][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.28-17.57.06:946][428]LogViewport: Scene viewport resized to 1172x723, mode Windowed.
+[2023.01.28-17.57.12:196][ 34]BlueprintLog: New page: Compile BP_dock
+[2023.01.28-17.57.12:250][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.28-18.06.01:722][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.28-18.06.01:723][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SettlersMap" FILE="../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/Autosaves/Game/Map/SettlersMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.01.28-18.06.01:829][ 91]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/SettlersMap_Auto1
+[2023.01.28-18.06.01:829][ 91]LogSavePackage: Moving '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/SettlersMap_Auto167E0756E47E5994596455084041DC120.tmp' to '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/Autosaves/Game/Map/SettlersMap_Auto1.umap'
+[2023.01.28-18.06.01:845][ 91]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/SettlersMap' took 0.160
+[2023.01.28-18.06.01:845][ 91]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2023.01.28-18.06.01:845][ 91]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/BP_dock] ([2] browsable assets)...
+[2023.01.28-18.06.01:924][ 91]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_dock.BP_dock]
+[2023.01.28-18.06.01:926][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_dock]
+[2023.01.28-18.06.01:926][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_dock" FILE="../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/Autosaves/Game/BluePrints/BP_dock_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.01.28-18.06.01:933][ 91]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/BP_dock_Auto1
+[2023.01.28-18.06.01:933][ 91]LogSavePackage: Moving '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/BP_dock_Auto1147DFD404CC46A82F47AA5AE9F860354.tmp' to '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/Autosaves/Game/BluePrints/BP_dock_Auto1.uasset'
+[2023.01.28-18.06.01:934][ 91]LogFileHelpers: Auto-saving content packages took 0.089
+[2023.01.28-18.11.02:931][638]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.01.28-18.11.02:937][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.28-18.11.02:938][638]PIE: New page: PIE session: SettlersMap (28 Jan 2023, 18:11:02)
+[2023.01.28-18.11.02:940][638]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.28-18.11.02:940][638]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.28-18.11.02:941][638]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_SettlersMap
+[2023.01.28-18.11.02:974][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032451s)
+[2023.01.28-18.11.02:974][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/SettlersMap.SettlersMap to /Game/Map/UEDPIE_0_SettlersMap.SettlersMap (0.032544s)
+[2023.01.28-18.11.02:974][638]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.28-18.11.02:974][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.28-18.11.02:974][638]LogAIModule: Creating AISystem for world SettlersMap
+[2023.01.28-18.11.02:975][638]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2023.01.28-18.11.03:015][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.01.28-18.11.03:016][638]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.28-18.11.03:016][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.28-18.11.03:016][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.28-18.11.03:017][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.28-18.11.03:017][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.28-18.11.03:017][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.28-18.11.03:018][638]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.28-18.11.03:060][638]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G433 Gaming Headset)
+[2023.01.28-18.11.03:060][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.28-18.11.03:060][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.28-18.11.03:060][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.28-18.11.03:062][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.28-18.11.03:062][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.01.28-18.11.03:063][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.28-18.11.03:063][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.28-18.11.03:063][638]LogInit: FAudioDevice initialized.
+[2023.01.28-18.11.03:063][638]LogAudio: Display: Audio Device (ID: 2) registered with world 'SettlersMap'.
+[2023.01.28-18.11.03:112][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.28-18.11.03:113][638]LogLoad: Game class is 'GameModeBase'
+[2023.01.28-18.11.03:121][638]LogWorld: Bringing World /Game/Map/UEDPIE_0_SettlersMap.SettlersMap up for play (max tick rate 0) at 2023.01.28-18.11.03
+[2023.01.28-18.11.03:122][638]LogWorld: Bringing up level for play took: 0.009083
+[2023.01.28-18.11.03:124][638]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.01.28-18.11.03:137][638]PIE: Server logged in
+[2023.01.28-18.11.03:138][638]PIE: Play in editor total start time 0.2 seconds.
+[2023.01.28-18.11.03:179][638]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.01.28-18.11.03:573][640]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.01.28-18.11.10:791][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.28-18.11.10:791][259]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_SettlersMap
+[2023.01.28-18.11.10:792][259]LogSlate: Window 'Settlers Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.01.28-18.11.10:814][259]LogWorld: UWorld::CleanupWorld for SettlersMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.28-18.11.10:815][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.28-18.11.10:826][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.28-18.11.10:831][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.28-18.11.10:876][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.28-18.11.10:877][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.28-18.11.10:878][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.28-18.11.10:901][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.01.28-18.11.10:977][260]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.01.28-18.11.48:264][351]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.28-18.11.48:264][351]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.28-18.11.55:121][  1]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.28-18.11.55:121][  1]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.28-18.12.20:470][250]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.401 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.28-18.12.31:293][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.28-18.12.31:530][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SettlersMap" FILE="../../../../../BlueBard/Game Projects/Catan/Settlers/Content/Map/SettlersMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.28-18.12.31:568][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.28-18.12.31:673][251]LogSavePackage: Moving output files for package: /Game/Map/SettlersMap
+[2023.01.28-18.12.31:673][251]LogSavePackage: Moving '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/SettlersMapD65032E646AD843B76200C8FC01E30DB.tmp' to '../../../../../BlueBard/Game Projects/Catan/Settlers/Content/Map/SettlersMap.umap'
+[2023.01.28-18.12.31:687][251]LogFileHelpers: No new changes to save!
+[2023.01.28-18.12.31:687][251]LogFileHelpers: Saving map 'SettlersMap' took 0.158
+[2023.01.28-18.12.31:688][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_dock" FILE="../../../../../BlueBard/Game Projects/Catan/Settlers/Content/BluePrints/BP_dock.uasset" SILENT=true
+[2023.01.28-18.12.31:690][251]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_dock
+[2023.01.28-18.12.31:691][251]LogSavePackage: Moving '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/BP_dockFB4212B749C82F19E1F0F1B77E9B2B0C.tmp' to '../../../../../BlueBard/Game Projects/Catan/Settlers/Content/BluePrints/BP_dock.uasset'
+[2023.01.28-18.12.31:710][251]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.28-18.12.31:711][251]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_dock.BP_dock
+[2023.01.28-18.12.31:711][251]LogContentValidation: Display: Validating World /Game/Map/SettlersMap.SettlersMap
