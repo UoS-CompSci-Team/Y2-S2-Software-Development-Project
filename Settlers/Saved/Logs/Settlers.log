@@ -1030,3 +1030,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.28-16.20.09:982][355]LogSavePackage: Moving '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/SettlersMap_Auto136DD6754439075A1A381B5B11351B718.tmp' to '../../../../../BlueBard/Game Projects/Catan/Settlers/Saved/Autosaves/Game/Map/SettlersMap_Auto1.umap'
 [2023.01.28-16.20.09:989][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/SettlersMap' took 0.160
 [2023.01.28-16.20.09:989][355]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2023.01.28-16.34.13:306][870]LogDerivedDataCache: C:/Users/Dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.542 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.28-16.36.15:471][128]LogSlate: Window 'Message' being destroyed
+[2023.01.28-16.36.15:479][128]Message dialog closed, result: Cancel, title: Message, text: Are you sure you want to update the default settings?
