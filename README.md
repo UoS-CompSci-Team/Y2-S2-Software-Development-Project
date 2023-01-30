@@ -35,7 +35,13 @@ Any Addicitonal questions can be asked to quentin via canvas [here](https://canv
 
 [Miro Stuff](https://miro.com/app/board/uXjVPulpUUM=/?share_link_id=639960897637)
 
-[Google Doc](https://docs.google.com/document/d/1YvfpGBZK_fr69mV4VCjYc3p4dFMyyVpiIodXD3ReDhQ/edit?usp=sharing)
+[Google Docs]
+
+• Unreal Progress: (https://docs.google.com/document/d/1tauy4AmMMQ4d9Cevp2DV-N2aLegJM-oL2-jsOnkMMn4/edit?usp=sharing)
+
+• Risk Assessment: (https://docs.google.com/document/d/1a9aZLpZ_dRUmCiY_hyk5WneOsZ769nmyUKAEU2t9MY8/edit?usp=sharing)
+
+• Timekeeping Plan: (https://docs.google.com/document/d/1ZaKdSTT5FtiU2i9Z3aSNaNilNDi5WpHmVgwFx4QrsUA/edit?usp=sharing)
 
 
 ## __Naming Conventions for UE__
@@ -45,6 +51,7 @@ For this project, use __camelCase__ with the following conventions for elements:
 - Blueprints = BP_myBlueprint
 - UIWidgets = BP_myWidget
 - Interfaces = I_myInterface
+- Structs = S_myStruct
 - Materials = M_myMat
 - Animations = A_myAnim
 - 3Dmeshes = SM_myModel
