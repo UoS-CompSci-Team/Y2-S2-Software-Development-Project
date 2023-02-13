@@ -49,7 +49,7 @@ Any Addicitonal questions can be asked to quentin via canvas [here](https://canv
 For this project, use __camelCase__ with the following conventions for elements:
 
 - Blueprints = BP_myBlueprint
-- UIWidgets = BP_myWidget
+- UIWidgets = W_myWidget
 - Interfaces = I_myInterface
 - Structs = S_myStruct
 - Materials = M_myMat
